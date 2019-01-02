@@ -1,4 +1,5 @@
 ![Notify](./docs/assets/notify-logo.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKarn%2Fnotify.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKarn%2Fnotify?ref=badge_shield)
 
 
 ## Notify
@@ -61,3 +62,7 @@ There are many ways to [contribute](./.github/CONTRIBUTING.md), you can
 - submit bugs,
 - help track issues,
 - review code changes.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKarn%2Fnotify.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKarn%2Fnotify?ref=badge_large)
